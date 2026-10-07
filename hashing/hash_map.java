@@ -26,7 +26,8 @@ public class hash_map {
         // .get
 
         System.out.println(map.get("India")); // if key exist then return the value 
-        System.out.println(map.get("bharat"));// if not exist then do not return shows null
+        System.out.println(map.get("bharat"));
+        // if not exist then do not return shows null
         
 
         // Iterator
