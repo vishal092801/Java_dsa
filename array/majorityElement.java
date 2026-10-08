@@ -12,7 +12,7 @@ public class majorityElement{
             }
             else{
                 map.put(arr[i], 1);
-            }     
+            }
         }
         for (int key : map.keySet()){
             if( map.get(key) > n/3)
